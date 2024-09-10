@@ -1,13 +1,13 @@
-# recipes-List
+# Recipes-List
 
 Hello Trumps
 Hi Joe Binen
 
-Hello Ash
+Hello Aash
 
 Hello I am Joe Biden President of USA. I love Trump
 
-Hello Chaital
+Hello Chai Tea
 
 # Cooking style
 
@@ -23,7 +23,5 @@ _Recipe 3_
 - Recipe 8
 - Recipe 9
 - Recipe 10
-  I am Git Accept me on GitHub
-Accept me
-
-Bla bla bla
+  I am Git Accept me on GitHub please
+Accept me on Git
