@@ -1,11 +1,11 @@
 # recipes-List
 
-Hello Trump
+Hello Trumps
 Hi Joe Binen
 
 Hello Ash
 
-Hi I am Joe Biden President of USA. I love Trump
+Hello I am Joe Biden President of USA. I love Trump
 
 Hello Chaital
 
@@ -24,4 +24,6 @@ _Recipe 3_
 - Recipe 9
 - Recipe 10
   I am Git Accept me on GitHub
-Accept me on Git
+Accept me
+
+Bla bla bla
